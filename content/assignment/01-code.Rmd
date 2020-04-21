@@ -463,7 +463,7 @@ Además de cambiar el nombre, queremos cambiar la etiqueta de la variable.
 
 ```{r}
 get_label(proc_elsoc$edad)
-proc_elsoc$edad <- set_label(x = proc_elsoc$edad,label = "Edad")
+proc_elsoc$edad <- set_label(x = proc_elsoc$edad,label = "Edad") 
 ```
 
 ## 5. Generación de base de datos procesada para el análisis
