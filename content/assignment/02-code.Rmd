@@ -135,7 +135,7 @@ La opción básica de `descr` es la siguiente:
 ```{r}
 sjmisc::descr(proc_elsoc)
 ```
-
+ 
 En este caso utilizamos la forma `librería::función` (`sjmisc::descr`), ya que la función `descr` también existe en otras librerías.
 
 Seleccionamos algunas columnas específicas con información más relevante con la opción `show`. Además, agregamos la función `kable` para obtener una tabla que luego sea fácilmente publicable en distintos formatos (a profundizar en una práctica posterior):
