@@ -56,7 +56,7 @@ data <-read_excel("content/assignment/data/hsb2.xls")
 ```
 
 ```{r eval=FALSE}
-data <-read_excel("https://multivariada.netlify.app/assignment/data/hsb2.xls")
+load(url("https://multivariada.netlify.app/assignment/data/hsb2.RData"))
 ```
 
 # Ajustes y descriptivos
