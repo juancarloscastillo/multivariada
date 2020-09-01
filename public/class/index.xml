@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material | Estadística Multivariada</title>
+    <link>/class/</link>
+      <atom:link href="/class/index.xml" rel="self" type="application/rss+xml" />
+    <description>Material</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <image>
+      <url>/img/social-image.png</url>
+      <title>Material</title>
+      <link>/class/</link>
+    </image>
+    
+    <item>
+      <title>12: Pendientes y complementos</title>
+      <link>/class/12-class/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/class/12-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/12-apendice/12_apendice.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/12-apendice/12_apendice.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.dropbox.com/s/9xsd338xjlufrbb/clase12.webm?raw=1&#34; width=&#34;940&#34; height=&#34;520&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11: Supuestos</title>
+      <link>/class/11-class/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/class/11-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/11-supuestos/11_supuestos.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/11-supuestos/11_supuestos.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.dropbox.com/s/uvh2f0airiwe1ua/11_supuestos.webm?raw=1&#34; width=&#34;940&#34; height=&#34;520&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10: Regresión logística (2)</title>
+      <link>/class/10-class/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/class/10-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase---no-disponible-falla-de-zoom&#34;&gt;Video de la clase - no disponible … falla de zoom :(&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/10-logit2/10_logit2.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/10-logit2/10_logit2.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase---no-disponible-falla-de-zoom&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase - no disponible … falla de zoom :(&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>9: Regresión logística (1)</title>
+      <link>/class/09-class/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/class/09-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/09-logit1/9_logit1.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/09-logit1/9_logit1.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.dropbox.com/s/3wczuea0qg40x7z/9logit.webm?raw=1&#34; width=&#34;940&#34; height=&#34;520&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8: Inferencia en regresión (2)</title>
+      <link>/class/08-class/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/class/08-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/08-infcomp/8_infcomp.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/08-infcomp/8_infcomp.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/10uTDBd3zgJfEx1ak2sTvYyXlYE9cTCC5/preview&#34; width=&#34;940&#34; height=&#34;520&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7: Categóricos / inferencia (1)</title>
+      <link>/class/07-class/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/class/07-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/07-catinf/7_catinf.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/07-catinf/7_catinf.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/l214pv5ht84qifh/7catinf.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regresión múltiple 2</title>
+      <link>/class/06-class/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/class/06-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/06-regmul2/6_regmul2.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/06-regmul2/6_regmul2.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/59bk96uhx5v2iq2/video.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/docs/lecturas/moore_residuos.pdf&#34;&gt;Moore: Residuos (144-154)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regresión múltiple 1</title>
+      <link>/class/05-class/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/class/05-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/05-regmul1/05_regmul1.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/05-regmul1/05_regmul1.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/iwi4kr0851vnew5/5regmul1.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/docs/lecturas/moore_residuos.pdf&#34;&gt;Moore: Residuos (144-154)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regresión simple 2</title>
+      <link>/class/04-class/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/class/04-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-la-clase&#34;&gt;Video de la clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/04-regsimple2/04_regsimple2.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/04-regsimple2/04_regsimple2.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-la-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de la clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/z3qmykvsros69sv/clase4.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/docs/lecturas/moore_residuos.pdf&#34;&gt;Moore: Residuos (144-154)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
+      <link>/class/01-class/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/01-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-clase&#34;&gt;Video de clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/01-programa/01_multiva_intro.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/01-programa/01_multiva_intro.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de clase&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Este video es una edición de la clase efectuada vía Zoom el día viernes 3 de Abril &lt;/span&gt;&lt;/p&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/gzjyhje48pe4jkc/clase1_prueba3.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../docs/lecturas/linares%202018%20Cap.2%20Explicacion%20en%20sociologia.pdf&#34;&gt;Linares (2018) La explicación en sociología&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bases</title>
+      <link>/class/02-class/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/02-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-clase&#34;&gt;Video de clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/02-bases/02_bases.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/02-bases/02_bases.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de clase&lt;/h2&gt;
+&lt;!---
+&lt;span class=&#34;sidenote&#34;&gt; Próximamente aquí &lt;/span&gt;
+---&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/yhcs6ezewor4bjl/02bases_edit.mp4?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../docs/lecturas/moore_comprensiondelosdatos.pdf&#34;&gt;Moore: 1.Comprensión de los datos (1-54)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regresión simple 1</title>
+      <link>/class/03-class/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/class/03-class/</guid>
+      <description>
+&lt;!-- BLOGDOWN-HEAD --&gt;
+&lt;!-- /BLOGDOWN-HEAD --&gt;
+
+&lt;h2&gt;Índice&lt;/h2&gt;
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#documento-presentación&#34;&gt;Documento presentación&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#video-de-clase&#34;&gt;Video de clase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lecturas&#34;&gt;Lecturas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;documento-presentación&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documento presentación&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;sidenote&#34;&gt;Para ver en pantalla completa click &lt;a href=&#34;/slides/03-regsimple1/03_regsimple1.html&#34;&gt;&lt;strong&gt;aquí&lt;/strong&gt;&lt;/a&gt;. Para guardar/imprimir (en modo pantalla completa): botón derecho, imprimir/guardar como pdf. &lt;/span&gt;&lt;/p&gt;
+&lt;iframe src=&#34;/slides/03-regsimple1/03_regsimple1.html&#34; height=&#34;550&#34; width=&#34;100%&#34; allowfullscreen=&#34;true&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-de-clase&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Video de clase&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 600px; overflow: hidden;&#34;&gt;
+&lt;video  style=&#34;width: 100%;&#34; controls&gt;
+&lt;source src=&#34;https://www.dropbox.com/s/x2bpbm6jjww682m/03regsimp.webm?raw=1&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lecturas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lecturas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/docs/lecturas/moore_analisisderelaciones1.pdf&#34;&gt;Moore: 2. Análisis de relaciones (97-131)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,17 +1,17 @@
 <div class="row">
     <div class="col-md-4">
-        <h3>Instructor</h3>
+        <h3>Profesor</h3>
 
         <ul class="icon-list">
-            <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.instructor.url }}" target="_blank" rel="noopener"> {{ .Site.Params.instructor.name }}</a></li>
-            <li><i class="fas fa-university"></i> {{ .Site.Params.instructor.office }}</li>
-            <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.instructor.email }}"> {{ .Site.Params.instructor.email }}</a></li>
-            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.instructor.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.instructor.twitter }}</a></li>
+            <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.Profesor.url }}" target="_blank" rel="noopener"> {{ .Site.Params.Profesor.name }}</a></li>
+            <li><i class="fas fa-university"></i> {{ .Site.Params.Profesor.office }}</li>
+            <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.Profesor.email }}"> {{ .Site.Params.Profesor.email }}</a></li>
+            <li><i class="fab fa-github"></i> <a href="https://github.com/{{ .Site.Params.course.github }}" target="_blank" rel="noopener"> {{ .Site.Params.Profesor.github }}</a></li>
         </ul>
     </div>
 
     <div class="col-md-4">
-        <h3>Course details</h3>
+        <h3>Horario clases</h3>
 
         <ul class="icon-list">
             <li><i class="far fa-calendar"></i> {{ .Site.Params.course.days }}</li>
@@ -22,9 +22,50 @@
         </ul>
     </div>
 
-    <div class="col-md-4 contact-policy">
-        <h3>Contacting me</h3>
+    <div class="col-md-4">
+        <h3>Horario prácticas</h3>
 
-        <p>{{ .Site.Params.instructor.contact_policy | markdownify}}</p>
+        <ul class="icon-list">
+            <li><i class="far fa-calendar"></i> Sección 1: Jueves </li>
+            <li><i class="far fa-calendar"></i> Sección 2: Viernes </li>
+            <li><i class="far fa-clock"></i> 8:30 a 10:00</li>
+        </ul>
     </div>
+
+
+    <div class="col-md-4">
+        <h3>Sección 1</h3>
+        <b> Apoyo docente</b>: <a href="mailto:valentina.vasquez.a@ug.uchile.cl">Valentina Andrade</a>  <br>
+        <b> Ayudantes</b>: <br>
+        - Andreas Lafferte <br>
+        - Cristóbal Ortiz <br>
+        - Karen Tapia <br>
+        - Sebastián Cortínez<br>
+        - Kevin Carrasco
+
+      </div>
+
+    <div class="col-md-4">
+        <h3>Sección 2</h3>
+        <b> Apoyo docente</b>: <a href="mailto:julioiturrasanhueza@gmail.com">Julio Iturra</a> <br>
+        <b> Ayudantes</b>: <br>
+        - Diego Esturillo <br>
+        - Martín Venegas <br>
+        - Vanessa Leyton <br>
+        - Víctor Jiménez<br>
+        - Camilo Lazo <br>
+        - Catalina Flores
+    </div>
+
+
+
+<br>
+
+<div class="contact-policy">
+  <h3>Contacto</h3>
+
+      <p>{{ .Site.Params.Profesor.contact_policy | markdownify}}</p>
+
+</div>
+
 </div>
